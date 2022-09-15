@@ -1,0 +1,20 @@
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\bin\Release\EZ-Cheatz v2.exe.config
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\bin\Release\EZ-Cheatz v2.exe
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\bin\Release\EZ-Cheatz v2.pdb
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft Wii U Mod Tool.csproj.AssemblyReference.cache
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft Wii U Mod Tool.csproj.SuggestedBindingRedirects.cache
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.forms.Aperance.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.ban.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.forms.credits.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.forms.GiveItems.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.forms.Messaging.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.Login.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.MainForm.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft_Wii_U_Mod_Tool.Properties.Resources.resources
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft Wii U Mod Tool.csproj.GenerateResource.cache
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft Wii U Mod Tool.csproj.CoreCompileInputs.cache
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft Wii U Mod Tool.csproj.Fody.CopyLocal.cache
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\Minecraft Wii U Mod Tool.csproj.CopyComplete
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\EZ-Cheatz v2.exe
+D:\EZ-Cheatz\Tool Release\Minecraft Wii U Mod Tool\obj\Release\EZ-Cheatz v2.pdb
