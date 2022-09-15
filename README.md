@@ -5,15 +5,25 @@ This is a tool I started developing in september 2020. I wanted to make a progra
 I gave up on this project since Minecraft Wii U Edition is very dead.
 
 
-Credits: 
+
+Credits:
+
 NextFax - developing this program and making some mods 
+
 Kashiiera / SlothWiiPlaza - Creating the GeckoU system, mods and file system 
+
 nt games - Creating many of the Mods 
+
 WiiPlaza - Creating the GeckoU system, mods and Commands 
+
 ＮＥＳＳＩＥＭＡＸ - Creating some Mods 
+
 Gazgoh - Creating some Mods 
-ogAltZ - Creating Wolrd Edit
+
+ogAltZ - Creating World Edit
+
 vylryna - Creating XP Changer
+
 
 
 You need to use Visual Studio 2022 to compile the project.
