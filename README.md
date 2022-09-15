@@ -12,7 +12,7 @@ NextFax - developing this program and making some mods
 
 Kashiiera / SlothWiiPlaza - Creating the GeckoU system, mods and file system 
 
-nt games - Creating many of the Mods 
+nt games - Creating some Mods 
 
 WiiPlaza - Creating the GeckoU system, mods and Commands 
 
